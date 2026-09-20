@@ -5,6 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1926a2a2-2188-4131-b70d-c4fc769c7a2b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/progetto-introduzione/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-introduzione/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-introduzione/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-introduzione/db-data/load.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-introduzione/db-init/01_schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-introduzione/db-init/02_seed.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-introduzione/docker-compose.override.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-introduzione/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-introduzione/docs/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/conf/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/css/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/img/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/js/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/src/Controller/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/src/Model/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/src/Util/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/templates/.gitkeep" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,6 +103,7 @@
       <entry key="W1" value="23.999869925423486" />
     </decayedShown>
   </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3,
   &quot;fromUser&quot;: false
@@ -102,7 +123,7 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/Admin/Documents/GitHub/PHP-Docker",
+    "last_opened_file_path": "C:/Users/Admin/Documents/GitHub/PHP-Docker/progetto-introduzione",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -112,6 +133,11 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\GitHub\PHP-Docker\progetto-introduzione" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -130,6 +156,7 @@
       <workItem from="1789463493175" duration="1153000" />
       <workItem from="1789464718396" duration="823000" />
       <workItem from="1789752556517" duration="2190000" />
+      <workItem from="1789808584119" duration="2902000" />
     </task>
     <servers />
   </component>
