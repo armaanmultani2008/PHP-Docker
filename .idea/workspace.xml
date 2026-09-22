@@ -5,27 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1926a2a2-2188-4131-b70d-c4fc769c7a2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/progetto-introduzione/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-introduzione/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-introduzione/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-introduzione/db-data/load.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-introduzione/db-init/01_schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-introduzione/db-init/02_seed.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-introduzione/docker-compose.override.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-introduzione/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-introduzione/docs/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/conf/config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/css/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/img/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/js/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/src/Controller/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/src/Model/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/src/Util/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/templates/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/hello-world.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/hello-world.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progetto-introduzione/www/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +19,14 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="PHP File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -115,6 +106,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -125,8 +117,10 @@
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Users/Admin/Documents/GitHub/PHP-Docker/progetto-introduzione",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "http.proxy",
@@ -136,6 +130,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\Documents\GitHub\PHP-Docker\progetto-introduzione" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\GitHub\PHP-Docker\progetto-introduzione\www\public" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -157,6 +154,7 @@
       <workItem from="1789464718396" duration="823000" />
       <workItem from="1789752556517" duration="2190000" />
       <workItem from="1789808584119" duration="2902000" />
+      <workItem from="1790066496621" duration="3438000" />
     </task>
     <servers />
   </component>
