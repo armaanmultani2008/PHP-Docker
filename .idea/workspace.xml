@@ -5,10 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1926a2a2-2188-4131-b70d-c4fc769c7a2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/hello-world.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/hello-world.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-tavola_pitagorica/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-tavola_pitagorica/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-tavola_pitagorica/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-tavola_pitagorica/db-data/load.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-tavola_pitagorica/db-init/01_schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-tavola_pitagorica/db-init/02_seed.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-tavola_pitagorica/docker-compose.override.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-tavola_pitagorica/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-tavola_pitagorica/docs/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-tavola_pitagorica/www/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-tavola_pitagorica/www/conf/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-tavola_pitagorica/www/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-tavola_pitagorica/www/public/css/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-tavola_pitagorica/www/public/img/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-tavola_pitagorica/www/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-tavola_pitagorica/www/public/js/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-tavola_pitagorica/www/public/tavola-pitagorica.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-tavola_pitagorica/www/src/Controller/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-tavola_pitagorica/www/src/Model/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-tavola_pitagorica/www/src/Util/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-tavola_pitagorica/www/templates/.gitkeep" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-introduzione/www/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +118,9 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3JMGMmFNJ8KLcqA1IQa95P9bnjn" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -115,7 +136,7 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/Admin/Documents/GitHub/PHP-Docker/progetto-introduzione",
+    "last_opened_file_path": "C:/Users/Admin/Documents/GitHub/PHP-Docker/progetto-tavola_pitagorica",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
@@ -129,6 +150,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\GitHub\PHP-Docker\progetto-tavola_pitagorica" />
+      <recent name="C:\Users\Admin\Documents\GitHub\PHP-Docker" />
       <recent name="C:\Users\Admin\Documents\GitHub\PHP-Docker\progetto-introduzione" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -154,7 +177,8 @@
       <workItem from="1789464718396" duration="823000" />
       <workItem from="1789752556517" duration="2190000" />
       <workItem from="1789808584119" duration="2902000" />
-      <workItem from="1790066496621" duration="3438000" />
+      <workItem from="1790066496621" duration="3850000" />
+      <workItem from="1790670492427" duration="4708000" />
     </task>
     <servers />
   </component>
