@@ -42,5 +42,7 @@
             }
             ?>
         </table>
+        <br>
+        <a href="tabelline.php">Vai alle tabelline</a>
     </body>
 </html>
