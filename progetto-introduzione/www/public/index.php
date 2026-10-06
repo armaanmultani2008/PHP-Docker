@@ -22,4 +22,10 @@ $app->get('/', function (Request $request, Response $response) {
     return $response;
 });
 
+echo "<ul>";
+echo "<li><a href='tavola-pitagorica.php'>Tavola Pitagorica</a></li>";
+echo "<li><a href='hello-world.php'>Hello World</a></li>";
+echo "<li><a href='tabelline.php'>Tabelline</a></li>";
+echo "<li><a href='Form-corso-lingua/form-corso.html'>Form Corso Lingua</a></li>";
+
 $app->run();
