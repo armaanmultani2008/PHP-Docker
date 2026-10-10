@@ -5,34 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1926a2a2-2188-4131-b70d-c4fc769c7a2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/Form-corso-lingua/form-corso.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/Form-corso-lingua/form-corso.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/Accesso-riservato/controllo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/Accesso-riservato/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/lavori-quinta.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lavori-quinta.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progetto-introduzione/www/public/Form-corso-lingua/form-corso.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/Form-corso-lingua/form-corso.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/progetto-introduzione/www/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-tavola_pitagorica/.env.example" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-tavola_pitagorica/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-tavola_pitagorica/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-tavola_pitagorica/db-data/load.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-tavola_pitagorica/db-init/01_schema.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-tavola_pitagorica/db-init/02_seed.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-tavola_pitagorica/docker-compose.override.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-tavola_pitagorica/docker-compose.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-tavola_pitagorica/docs/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-tavola_pitagorica/www/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-tavola_pitagorica/www/composer.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-tavola_pitagorica/www/conf/config.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-tavola_pitagorica/www/public/.htaccess" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-tavola_pitagorica/www/public/css/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-tavola_pitagorica/www/public/img/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-tavola_pitagorica/www/public/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-tavola_pitagorica/www/public/js/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-tavola_pitagorica/www/public/tabelline.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/tabelline.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-tavola_pitagorica/www/public/tavola-pitagorica.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/tavola-pitagorica.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-tavola_pitagorica/www/src/Controller/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-tavola_pitagorica/www/src/Model/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-tavola_pitagorica/www/src/Util/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-tavola_pitagorica/www/templates/.gitkeep" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="PHP File" />
         <option value="HTML File" />
+        <option value="PHP File" />
       </list>
     </option>
   </component>
@@ -192,6 +170,8 @@
       <workItem from="1791189565732" duration="19000" />
       <workItem from="1791273933418" duration="913000" />
       <workItem from="1791274903539" duration="5138000" />
+      <workItem from="1791623081297" duration="2975000" />
+      <workItem from="1791636486896" duration="2401000" />
     </task>
     <servers />
   </component>

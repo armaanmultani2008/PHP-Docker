@@ -18,14 +18,17 @@ $app->addErrorMiddleware(APP_ENV === 'development', true, true);
 // --- Route di esempio ---
 
 $app->get('/', function (Request $request, Response $response) {
-    $response->getBody()->write('Hello World!');
+    $response->getBody()->write('');
     return $response;
 });
 
+echo "<h1>Esercizi svolti:</h1>";
+
 echo "<ul>";
-echo "<li><a href='tavola-pitagorica.php'>Tavola Pitagorica</a></li>";
 echo "<li><a href='hello-world.php'>Hello World</a></li>";
+echo "<li><a href='tavola-pitagorica.php'>Tavola Pitagorica</a></li>";
 echo "<li><a href='tabelline.php'>Tabelline</a></li>";
 echo "<li><a href='Form-corso-lingua/form-corso.html'>Form Corso Lingua</a></li>";
+echo "<li><a href='Accesso-riservato/login.php'>Area Riservata</a></li>";
 
 $app->run();
