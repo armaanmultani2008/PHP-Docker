@@ -1,5 +1,5 @@
 <?php
-    $messaggio_errore = "";
+    $errore = false;
     function correggi_input($data)
     {
         $data = trim($data);
@@ -12,8 +12,10 @@
     $password = correggi_input($_POST["password"]);
 
     if (strlen($password) < 8) {
-        $messaggio_errore .= "La password non rispetta i requisiti richiesti\n";
-        $messaggio_errore .= "La Password deve contenere almeno 8 caratteri\n";
+        $errore = true;
+        echo "<h2>Errore!</h2>";
+        echo "<p>La password non rispetta i requisiti richiesti</p>";
+        echo "<p>La Password deve contenere almeno 8 caratteri</p>";
     }
 
     $maiuscola_trovata = false;
@@ -26,25 +28,33 @@
     }
 
     if (!$maiuscola_trovata) {
-        if (strlen($messaggio_errore) == 0)
-            $messaggio_errore .= "La password non rispetta i requisiti richiesti\n";
-        $messaggio_errore .= "La Password deve contenere almeno una lettera maiuscola\n";
+        if (!$errore) {
+            $errore = true;
+            echo "<h2>Errore!</h2>";
+            echo "<p>La password non rispetta i requisiti richiesti</p>";
+            echo "<p>La Password deve contenere almeno una Maiuscola.</p>";
+        }
+        else
+            echo "<p>La Password deve contenere almeno una Maiuscola.</p>";
     }
 
     if (!$numero_trovato) {
-        if (strlen($messaggio_errore) == 0)
-            $messaggio_errore .= "La password non rispetta i requisiti richiesti\n";
-        $messaggio_errore .= "La Password deve contenere almeno una lettera maiuscola\n";
+        if (!$errore) {
+            $errore = true;
+            echo "<h2>Errore!</h2>";
+            echo "<p>La password non rispetta i requisiti richiesti</p>";
+            echo "<p>La Password deve contenere almeno un Numero.</p>";
+        }
+        else
+            echo "<p>La Password deve contenere almeno un Numero.</p>";
     }
 
+    if(!$errore) {
+        session_start();
+        $_SESSION['username'] = $username;
 
-    if (empty($messaggio_errore)) {
-        echo "<h2>Area riservata</h2>";
-        echo "<p>Accesso effettuato con successo!</p>";
-        echo "<p>Benvenuto nella tua area personale " . $username . "</p>";
-    } else {
-        echo "<h2>Errore!</h2>";
-        echo $messaggio_errore;
+        header("Location: area-riservata.php");
+        exit;
     }
     echo "<a href='login.php'>Torna indietro</a>";
 ?>

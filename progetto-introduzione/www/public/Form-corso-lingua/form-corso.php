@@ -30,7 +30,7 @@
 
     if(empty($_POST["orario"]))
         $messaggio_errore .= "Scelta dell'Orario obbligatoria\n";
-    else $orario = correggi_input($_POST["orario"]);
+    else $orario = (isset($_POST["orario"])) ? $_POST["orario"] : array();
 
     if(empty($_POST["richieste"]))
         $richieste = "nessuna";

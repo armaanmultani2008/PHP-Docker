@@ -30,5 +30,6 @@ echo "<li><a href='tavola-pitagorica.php'>Tavola Pitagorica</a></li>";
 echo "<li><a href='tabelline.php'>Tabelline</a></li>";
 echo "<li><a href='Form-corso-lingua/form-corso.html'>Form Corso Lingua</a></li>";
 echo "<li><a href='Accesso-riservato/login.php'>Area Riservata</a></li>";
+echo "<li><a href='pizzeria.php'>Prenota Pizzeria</a></li>";
 
 $app->run();

@@ -16,7 +16,7 @@
 </head>
 <body>
     <?php
-        echo "<h1>Accesso all'area Riservata</h1>";
+        echo "<h1 style='text-align: center'>Accesso all'area Riservata</h1>";
         echo "<form action='controllo.php' method='post'>";
 
         echo '<label for="username">Username:</label>';
@@ -30,7 +30,7 @@
         echo "<p id='requisiti-password'>* deve contenere almeno una lettera maiuscola</p>";
         echo "<p id='requisiti-password'>* deve contenere almeno una cifra numerica</p>";
 
-        echo '<button type="submit">Invia</button>';
+        echo '<button type="submit">Accedi</button>';
         echo '</form>';
     ?>
 </body>
