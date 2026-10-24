@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1926a2a2-2188-4131-b70d-c4fc769c7a2b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/Parcheggio/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/Parcheggio/parcheggio.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progetto-introduzione/www/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,6 +174,10 @@
       <workItem from="1791878823071" duration="6062000" />
       <workItem from="1791900671555" duration="444000" />
       <workItem from="1791915078338" duration="124000" />
+      <workItem from="1792228469303" duration="379000" />
+      <workItem from="1792228870276" duration="47000" />
+      <workItem from="1792486098143" duration="3653000" />
+      <workItem from="1792832834386" duration="2543000" />
     </task>
     <servers />
   </component>
