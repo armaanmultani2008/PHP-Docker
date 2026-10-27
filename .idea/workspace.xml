@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1926a2a2-2188-4131-b70d-c4fc769c7a2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/Parcheggio/home.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/Parcheggio/parcheggio.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/Spedizione/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/Spedizione/spedizione.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/progetto-introduzione/www/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/index.php" afterDir="false" />
     </list>
@@ -37,61 +37,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.311074053232816" />
-      <entry key="MS500" value="3.493127777544824" />
-      <entry key="S2" value="8.295409248985603" />
-      <entry key="S5" value="13.906595541373981" />
-      <entry key="S10" value="17.81567720587999" />
-      <entry key="S30" value="21.600213210504197" />
-      <entry key="S60" value="22.75080189911884" />
-      <entry key="M2" value="23.362469203689507" />
-      <entry key="M5" value="23.741802756501247" />
-      <entry key="M10" value="23.870363616941745" />
-      <entry key="M15" value="23.913455721994737" />
-      <entry key="M30" value="23.95666771906671" />
-      <entry key="H1" value="23.978318799505566" />
-      <entry key="H2" value="23.989155631672865" />
-      <entry key="H4" value="23.994576873432035" />
-      <entry key="D1" value="23.99909601464986" />
-      <entry key="W1" value="23.999870856029013" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.000000000291176" />
+      <entry key="S10" value="1.000022325198015" />
+      <entry key="S30" value="1.047504812214825" />
+      <entry key="S60" value="1.584107634671648" />
+      <entry key="M2" value="5.400642596455023" />
+      <entry key="M5" value="26.067851559152004" />
+      <entry key="M10" value="64.10285765867332" />
+      <entry key="M15" value="104.39939307985554" />
+      <entry key="M30" value="209.9744323109563" />
+      <entry key="H1" value="330.11238971218285" />
+      <entry key="H2" value="425.394847549442" />
+      <entry key="H4" value="486.1480735268348" />
+      <entry key="D1" value="545.1643091120108" />
+      <entry key="W1" value="556.143976603626" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="0.0" />
-      <entry key="M5" value="0.0" />
-      <entry key="M10" value="0.0" />
-      <entry key="M15" value="0.0" />
-      <entry key="M30" value="0.0" />
-      <entry key="H1" value="0.0" />
-      <entry key="H2" value="0.0" />
-      <entry key="H4" value="0.0" />
-      <entry key="D1" value="0.0" />
-      <entry key="W1" value="0.0" />
+      <entry key="MS500" value="4.2479185855904484E-212" />
+      <entry key="S2" value="1.435636694503188E-53" />
+      <entry key="S5" value="7.322324010466483E-22" />
+      <entry key="S10" value="2.875812433141967E-11" />
+      <entry key="S30" value="4.206395647527368E-4" />
+      <entry key="S60" value="0.028308360922571354" />
+      <entry key="M2" value="0.2424942586442512" />
+      <entry key="M5" value="1.4250718059936758" />
+      <entry key="M10" value="4.417854904922197" />
+      <entry key="M15" value="7.316823020131454" />
+      <entry key="M30" value="13.157799195701198" />
+      <entry key="H1" value="18.267448448104552" />
+      <entry key="H2" value="21.72438556635475" />
+      <entry key="H4" value="23.747235405127526" />
+      <entry key="D1" value="25.60736244447732" />
+      <entry key="W1" value="25.943471439182762" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.192853313239375" />
-      <entry key="MS500" value="3.429443780411012" />
-      <entry key="S2" value="8.250682006222132" />
-      <entry key="S5" value="13.864118322118422" />
-      <entry key="S10" value="17.78251530522905" />
-      <entry key="S30" value="21.584622128528693" />
-      <entry key="S60" value="22.74225943339999" />
-      <entry key="M2" value="23.357994495524025" />
-      <entry key="M5" value="23.739961732865503" />
-      <entry key="M10" value="23.869434382325405" />
-      <entry key="M15" value="23.9128342788153" />
-      <entry key="M30" value="23.95635601697464" />
-      <entry key="H1" value="23.978162702621862" />
-      <entry key="H2" value="23.98907752168238" />
-      <entry key="H4" value="23.994537803038455" />
-      <entry key="D1" value="23.999089500777995" />
-      <entry key="W1" value="23.999869925423486" />
+      <entry key="MS100" value="5.917817613598949E-13" />
+      <entry key="MS500" value="0.0035845307902787706" />
+      <entry key="S2" value="0.24468541259935897" />
+      <entry key="S5" value="0.5694337864424656" />
+      <entry key="S10" value="0.7546306336532075" />
+      <entry key="S30" value="0.9582124591782077" />
+      <entry key="S60" value="1.5621294745057832" />
+      <entry key="M2" value="5.594893971125353" />
+      <entry key="M5" value="27.428779675279422" />
+      <entry key="M10" value="68.45126880448763" />
+      <entry key="M15" value="111.64776975176231" />
+      <entry key="M30" value="223.0752927931953" />
+      <entry key="H1" value="348.34104175480013" />
+      <entry key="H2" value="447.0962423023725" />
+      <entry key="H4" value="509.8827452839396" />
+      <entry key="D1" value="570.7694121426044" />
+      <entry key="W1" value="582.0871209732551" />
     </decayedShown>
   </component>
   <component name="PhpDebugGeneral" listening_started="true" />
@@ -107,32 +107,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Documents/GitHub/PHP-Docker/progetto-tavola_pitagorica&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;http.proxy&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/70903690/Documents/GitHub/PHP-Docker/progetto-introduzione",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "http.proxy",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\70903690\Documents\GitHub\PHP-Docker\progetto-introduzione" />
       <recent name="C:\Users\Admin\Documents\GitHub\PHP-Docker\progetto-tavola_pitagorica" />
       <recent name="C:\Users\Admin\Documents\GitHub\PHP-Docker" />
       <recent name="C:\Users\Admin\Documents\GitHub\PHP-Docker\progetto-introduzione" />
@@ -178,6 +179,7 @@
       <workItem from="1792228870276" duration="47000" />
       <workItem from="1792486098143" duration="3653000" />
       <workItem from="1792832834386" duration="2543000" />
+      <workItem from="1793092799790" duration="4871000" />
     </task>
     <servers />
   </component>

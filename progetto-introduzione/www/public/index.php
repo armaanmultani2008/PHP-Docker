@@ -32,5 +32,6 @@ echo "<li><a href='Form-corso-lingua/form-corso.html'>Form Corso Lingua</a></li>
 echo "<li><a href='Accesso-riservato/login.php'>Area Riservata</a></li>";
 echo "<li><a href='pizzeria.php'>Prenota Pizzeria</a></li>";
 echo "<li><a href='Parcheggio/home.php'>Prenota Parcheggio</a></li>";
+echo "<li><a href='Spedizione/home.php'>Spedizione</a></li>";
 
 $app->run();
