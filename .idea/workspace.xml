@@ -5,10 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1926a2a2-2188-4131-b70d-c4fc769c7a2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/Spedizione/home.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/Spedizione/spedizione.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/db-data/load.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/db-init/01_schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/db-init/02_seed.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/docker-compose.override.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/docs/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/www/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/www/conf/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/www/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/www/public/css/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/www/public/esempio.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/www/public/img/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/www/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/www/public/js/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/www/src/Controller/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/www/src/Model/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/www/src/Util/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/www/templates/.gitkeep" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-introduzione/www/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,32 +125,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/70903690/Documents/GitHub/PHP-Docker/progetto-introduzione",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "http.proxy",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Documents/GitHub/PHP-Docker&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mariadb&quot;
+    ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\GitHub\PHP-Docker\" />
       <recent name="C:\Users\70903690\Documents\GitHub\PHP-Docker\progetto-introduzione" />
       <recent name="C:\Users\Admin\Documents\GitHub\PHP-Docker\progetto-tavola_pitagorica" />
       <recent name="C:\Users\Admin\Documents\GitHub\PHP-Docker" />
@@ -147,8 +171,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-PS-262.10315.130" />
-        <option value="bundled-php-predefined-a98d8de5180a-9522f28f0b20-com.jetbrains.php.sharedIndexes-PS-262.10315.130" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-PS-262.10968.76" />
+        <option value="bundled-php-predefined-a98d8de5180a-9522f28f0b20-com.jetbrains.php.sharedIndexes-PS-262.10968.76" />
       </set>
     </attachedChunks>
   </component>
@@ -180,6 +204,11 @@
       <workItem from="1792486098143" duration="3653000" />
       <workItem from="1792832834386" duration="2543000" />
       <workItem from="1793092799790" duration="4871000" />
+      <workItem from="1793181739042" duration="2330000" />
+      <workItem from="1793441161426" duration="730000" />
+      <workItem from="1793442697517" duration="342000" />
+      <workItem from="1793443095569" duration="12000" />
+      <workItem from="1793443181321" duration="47000" />
     </task>
     <servers />
   </component>
