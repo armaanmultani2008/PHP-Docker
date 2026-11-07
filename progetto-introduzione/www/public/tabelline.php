@@ -18,7 +18,7 @@
     </head>
     <body>
         <?php
-            $valore = $_GET['valore'];
+            $valore = $_GET['valore'] ?? null;
 
             if (!$valore) {
                 echo "<h1>Nessun Valore</h1>";

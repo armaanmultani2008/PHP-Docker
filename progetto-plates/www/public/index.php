@@ -18,8 +18,15 @@ $app->addErrorMiddleware(APP_ENV === 'development', true, true);
 // --- Route di esempio ---
 
 $app->get('/', function (Request $request, Response $response) {
-    $response->getBody()->write('Progetto didattico - in costruzione');
+    $response->getBody()->write('');
     return $response;
 });
+
+echo "<h1>Esercizi svolti:</h1>";
+
+echo "<ul>";
+echo "<li><a href='tabelline/tabelline.php'>Tabelline</a></li>";
+echo "<li><a href='biglietti/acquisto-biglietti.php'>Acquisto biglietti</a></li>";
+echo "</ul>";
 
 $app->run();
