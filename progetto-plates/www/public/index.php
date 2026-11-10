@@ -27,6 +27,7 @@ echo "<h1>Esercizi svolti:</h1>";
 echo "<ul>";
 echo "<li><a href='tabelline/tabelline.php'>Tabelline</a></li>";
 echo "<li><a href='biglietti/acquisto-biglietti.php'>Acquisto biglietti</a></li>";
+echo "<li><a href='schede.php'>Schede</a></li>";
 echo "</ul>";
 
 $app->run();

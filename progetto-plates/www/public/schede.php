@@ -1,20 +1,17 @@
 <?php
 
-require '../../vendor/autoload.php';
+require '../vendor/autoload.php';
 
 use League\Plates\Engine;
+use Model\PeopleRepository;
 
 $template = new Engine('../templates', 'tpl');
 
-$persone = [
-    'Mario',
-    'Anna',
-    'Giulia'
-];
+$persone = PeopleRepository::getPeople();
 
 echo $template->render('schede',
     [
-        'titolo' => 'Pietre d\'inciampo',
+        'titolo' => 'Informatici Famosi',
         'persone' => $persone,
     ]
 );
