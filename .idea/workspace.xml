@@ -4,86 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1926a2a2-2188-4131-b70d-c4fc769c7a2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/progetto-plates/www/public/biglietti/acquisto-biglietti.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-plates/www/public/biglietti/biglietto.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-plates/www/public/tabelline/tabellina.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-plates/www/public/tabelline/tabelline.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-plates/www/templates/biglietti/acquisto-biglietti.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-plates/www/templates/biglietti/biglietto.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-plates/www/templates/tabelline/tabellina.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progetto-plates/www/templates/tabelline/tabelline.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/lavori-quinta.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lavori-quinta.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build-slides.sh" beforeDir="false" afterPath="$PROJECT_DIR$/build-slides.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comandi_essenziali_docker.md" beforeDir="false" afterPath="$PROJECT_DIR$/comandi_essenziali_docker.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-base-image/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/docker-base-image/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-base-image/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docker-base-image/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-base-image/apache-config/000-default.conf" beforeDir="false" afterPath="$PROJECT_DIR$/docker-base-image/apache-config/000-default.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-base-image/apache-config/ssl-default.conf" beforeDir="false" afterPath="$PROJECT_DIR$/docker-base-image/apache-config/ssl-default.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-base-image/apache-php/php-production.ini" beforeDir="false" afterPath="$PROJECT_DIR$/docker-base-image/apache-php/php-production.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-base-image/apache-php/php.ini" beforeDir="false" afterPath="$PROJECT_DIR$/docker-base-image/apache-php/php.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-introduzione/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/.env.example" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-introduzione/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-introduzione/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-introduzione/db-data/load.sh" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/db-data/load.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-introduzione/db-init/01_schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/db-init/01_schema.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-introduzione/db-init/02_seed.sql" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/db-init/02_seed.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-introduzione/docker-compose.override.yml" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/docker-compose.override.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-introduzione/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-introduzione/www/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/www/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-introduzione/www/conf/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/www/conf/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-introduzione/www/public/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/.htaccess" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-introduzione/www/public/Accesso-riservato/area-riservata.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/Accesso-riservato/area-riservata.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-introduzione/www/public/Accesso-riservato/controllo.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/Accesso-riservato/controllo.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-introduzione/www/public/Accesso-riservato/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/Accesso-riservato/login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-introduzione/www/public/Form-corso-lingua/form-corso.html" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/Form-corso-lingua/form-corso.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-introduzione/www/public/Form-corso-lingua/form-corso.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/Form-corso-lingua/form-corso.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-introduzione/www/public/Parcheggio/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/Parcheggio/home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-introduzione/www/public/Parcheggio/parcheggio.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/Parcheggio/parcheggio.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-introduzione/www/public/Spedizione/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/Spedizione/home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-introduzione/www/public/Spedizione/spedizione.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/Spedizione/spedizione.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-introduzione/www/public/hello-world.html" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/hello-world.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-introduzione/www/public/hello-world.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/hello-world.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-introduzione/www/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-introduzione/www/public/pizzeria.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/pizzeria.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-introduzione/www/public/tabelline.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/tabelline.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-introduzione/www/public/tavola-pitagorica.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-introduzione/www/public/tavola-pitagorica.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-plates/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-plates/.env.example" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-plates/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-plates/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-plates/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-plates/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-plates/db-data/load.sh" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-plates/db-data/load.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-plates/db-init/01_schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-plates/db-init/01_schema.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-plates/db-init/02_seed.sql" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-plates/db-init/02_seed.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-plates/docker-compose.override.yml" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-plates/docker-compose.override.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-plates/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-plates/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-plates/www/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-plates/www/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-plates/www/conf/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-plates/www/conf/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-plates/www/public/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-plates/www/public/.htaccess" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-plates/www/public/esempio.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-plates/www/public/esempio.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-plates/www/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-plates/www/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-plates/www/templates/esempio.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-plates/www/templates/esempio.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-template/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-template/.env.example" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-template/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-template/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-template/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-template/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-template/db-data/load.sh" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-template/db-data/load.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-template/db-init/01_schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-template/db-init/01_schema.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-template/db-init/02_seed.sql" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-template/db-init/02_seed.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-template/docker-compose.override.yml" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-template/docker-compose.override.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-template/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-template/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-template/www/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-template/www/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-template/www/conf/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-template/www/conf/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-template/www/public/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-template/www/public/.htaccess" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progetto-template/www/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/progetto-template/www/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides.html" beforeDir="false" afterPath="$PROJECT_DIR$/slides.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides.md" beforeDir="false" afterPath="$PROJECT_DIR$/slides.md" afterDir="false" />
-    </list>
+    <list default="true" id="1926a2a2-2188-4131-b70d-c4fc769c7a2b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,7 +114,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/home/armaans/Shared/Projects/GitHub/PHP-Docker/progetto-plates",
+    "last_opened_file_path": "/home/armaans/Documenti/GitHub/PHP-Docker/progetto-plates",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
@@ -270,6 +191,7 @@
       <workItem from="1793607942239" duration="16000" />
       <workItem from="1793699630495" duration="22000" />
       <workItem from="1794046588199" duration="49000" />
+      <workItem from="1794255405795" duration="12000" />
     </task>
     <servers />
   </component>
